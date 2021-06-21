@@ -1,0 +1,1 @@
+FROM gcr.io/knative-releases/knative.dev/net-istio/cmd/webhook@sha256:e7e95828c6902be7578ab2144aca0ae477515278a1e8c7644dcae4bc3ab075fd
